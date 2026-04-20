@@ -21,8 +21,9 @@ with Windows. Right click to select search and navigate your destination.
 
 <img width="1859" height="1079" alt="2026-04-21_00-04-19" src="https://github.com/user-attachments/assets/03da8172-52bd-4b2e-a2d1-b04c0f1047fc" />
 
-
-Support for Directions and Multi-directions :
+<br>
+Support for Directions and Multi-directions using the character `>` in between Locations :
+<br>
 <img width="1920" height="1080" alt="gmap_search_02" src="https://github.com/user-attachments/assets/57fb08b2-83f7-44b4-b9b4-073f6dc17eb2" />
 
 
