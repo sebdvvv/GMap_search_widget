@@ -1,6 +1,6 @@
 # GMAP_search
 
-![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge) <!--
+![Maintenance](https://img.shields.io/maintenance/yes/2026?style=for-the-badge) <!--
 ![GitHub Release Date](https://img.shields.io/github/release-date/sebdvvv/GMap_search_widget?style=for-the-badge)
 --> ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/sebdvvv/GMap_search_widget/total?style=for-the-badge)
 ![GitHub Releases](https://img.shields.io/github/downloads/sebdvvv/GMap_search_widget/latest/total?style=for-the-badge)
