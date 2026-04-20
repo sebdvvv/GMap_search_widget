@@ -10,10 +10,12 @@ Hey, you people that are contantly searching Locations and Directions through st
 Here is a gift for you!
 
 > GMAP_search is a super simple tool that puts Google Maps searches right into the Windows task bar.
-<img width="436" height="107" alt="gmap_search_01" src="https://github.com/user-attachments/assets/dc55722b-9da1-4e29-8470-c506c58d5e6a" />
 <img width="419" height="111" alt="gmap_search_00" src="https://github.com/user-attachments/assets/acc937d4-c49a-4948-ae17-c656fd6e31e1" />
 
+<br>
 
+<img width="436" height="107" alt="gmap_search_01" src="https://github.com/user-attachments/assets/dc55722b-9da1-4e29-8470-c506c58d5e6a" />
+<br>
 Nothing to install, no dependancies. Just a single file you put in your tools folder and run when needed. Configure to automatically start 
 with Windows. Right click to select search and navigate your destination.
 
