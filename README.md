@@ -26,7 +26,7 @@ Support for Directions and Multi-directions using the character `>` in between L
 <br>
 <img width="1920" height="1080" alt="gmap_search_02" src="https://github.com/user-attachments/assets/57fb08b2-83f7-44b4-b9b4-073f6dc17eb2" />
 
-
+<br><br>
 **Download**    - [Version 1.0](https://github.com/sebdvvv/GMap_search_widget/releases/latest)
 
 
