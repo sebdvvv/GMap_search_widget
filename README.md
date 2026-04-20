@@ -19,12 +19,12 @@ Here is a gift for you!
 Nothing to install, no dependancies. Just a single file you put in your tools folder and run when needed. Configure to automatically start 
 with Windows. Right click to select search and navigate your destination.
 
-<img width="1859" height="1079" alt="2026-04-21_00-04-19" src="https://github.com/user-attachments/assets/03da8172-52bd-4b2e-a2d1-b04c0f1047fc" />
+<img width="1859" height="1079" alt="2026-04-21_00-04-19" src="https://github.com/user-attachments/assets/e6aeb456-1cec-40b7-91f3-238dac4e0020" />
 
 <br>
 Support for Directions and Multi-directions using the character `>` in between Locations :
 <br>
-<img width="1920" height="1080" alt="gmap_search_02" src="https://github.com/user-attachments/assets/57fb08b2-83f7-44b4-b9b4-073f6dc17eb2" />
+<img width="1920" height="1080" alt="gmap_search_02" src="https://github.com/user-attachments/assets/5936db0a-6bac-4bec-8919-4e57f87b9308" />
 
 <br><br>
 **Download**    - [Version 1.0](https://github.com/sebdvvv/GMap_search_widget/releases/latest)
