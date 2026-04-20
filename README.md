@@ -17,7 +17,7 @@ Here is a gift for you!
 <img width="436" height="107" alt="gmap_search_01" src="https://github.com/user-attachments/assets/dc55722b-9da1-4e29-8470-c506c58d5e6a" />
 <br>
 Nothing to install, no dependancies. Just a single file you put in your tools folder and run when needed. Configure to automatically start 
-with Windows. Right click to select search and navigate your destination.
+with Windows. Right click, Search and navigate your destination.
 
 <img width="1859" height="1079" alt="2026-04-21_00-04-19" src="https://github.com/user-attachments/assets/e6aeb456-1cec-40b7-91f3-238dac4e0020" />
 
