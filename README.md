@@ -5,7 +5,7 @@
 --> ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/sebdvvv/GMap_search_widget/total?style=for-the-badge)
 ![GitHub Releases](https://img.shields.io/github/downloads/sebdvvv/GMap_search_widget/latest/total?style=for-the-badge)
 
-Hey, you people that are contantly searching Locations and Directions through standard Google Searches and end up nowhere except typing manually maps.google.com and get all the search done over again.
+Hey, you people that are contantly searching Locations and Directions through standard Google Searches, ending up nowhere except ending manually to maps.google.com with the search to be done again.
 
 Here is a gift for you!
 
