@@ -26,7 +26,8 @@ Right click, Search and navigate your destination.
 <br>
 Support for Directions and Multi-directions using the character `>` in between Locations :
 <br>
-<img width="1920" height="1080" alt="gmap_search_02" src="https://github.com/user-attachments/assets/5936db0a-6bac-4bec-8919-4e57f87b9308" />
+
+<img width="1859" height="1079" alt="581089659-e6aeb456-1cec-40b7-91f3-238dac4e0020" src="https://github.com/user-attachments/assets/209dc4b0-6923-4eda-abac-ebeac688c0cb" />
 
 <br><br>
 **Download**    - [Version 1.0](https://github.com/sebdvvv/GMap_search_widget/releases/latest)
