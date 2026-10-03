@@ -37,10 +37,5 @@ Have an idea?  Found a bug? [Leave feedback](mailto:sebdvvv@riseup.net) or [subm
 ## Change log: ##
 
 
----
 
-If you like GMap_search, please donate! 
-
-
-**BTC** to "BC1QQN0TXSDE56DYZKDE05UP74UATC9C5FTETZM6P3" 
 
