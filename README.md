@@ -20,7 +20,7 @@ Right click, Search and navigate your destination.
 
 
 <br>
-Support for Directions and Multi-directions using the character `>` in between Locations :
+Support for Directions and Multi-directions by typing `>` in between Locations :
 <br>
 
 <img width="1920" height="1080" alt="581089558-5936db0a-6bac-4bec-8919-4e57f87b9308" src="https://github.com/user-attachments/assets/279e84fb-99ba-4db2-9965-f3b55e17a79d" />
