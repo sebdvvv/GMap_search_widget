@@ -32,9 +32,7 @@ Support for Directions and Multi-directions using the character `>` in between L
 
 Have an idea?  Found a bug? [Leave feedback](mailto:sebdvvv@riseup.net) or [submit an issue](https://github.com/sebdvvv/GMap_search_widget/issues)!
 
----
 
-## Change log: ##
 
 
 
