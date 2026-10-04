@@ -6,10 +6,7 @@
 ![GitHub Releases](https://img.shields.io/github/downloads/sebdvvv/GMap_search_widget/latest/total?style=for-the-badge)
 
 > GMAP_search is a super simple tool that puts Google Maps searches right into the Windows task bar.
-<img width="419" height="111" alt="gmap_search_00" src="https://github.com/user-attachments/assets/acc937d4-c49a-4948-ae17-c656fd6e31e1" />
-
 <br>
-
 <img width="436" height="107" alt="gmap_search_01" src="https://github.com/user-attachments/assets/dc55722b-9da1-4e29-8470-c506c58d5e6a" />
 <br>
 Nothing to install, no dependencies. 
